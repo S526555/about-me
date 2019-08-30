@@ -19,3 +19,6 @@ A little cheat sheet/guide to Markdown commands (Markdown is the language of Git
 - [Node.js](Node is a Javascript extension, which runs with your code to enable you more advanced web control and hosting opportunities IF you take the time to master it. Unless you're on the NW network.... Then the Great Firewall kills your web apps on local host :(
 
 - [Angular.js](https://angularjs.org/) Another framework for establishing a dynamic webpage and functions much like Node, just with claims to be better and more efficient. Personally I have no experience with Angular, and very little with Node in a functional setting. But based on what I'm reading it could be extremely promising if you found Node lacking some of your taste.
+
+## Contributors!
+- Brenden Thummel, B.S. in Computer Science (Image will be uploaded to the Repo because I'm still struggling a bit with getting images to link properly. And I think it's just my Google Chrome acting up... Idk) Also, you can find a full introduction in my Index.txt file!
