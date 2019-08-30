@@ -14,3 +14,8 @@ A little cheat sheet/guide to Markdown commands (Markdown is the language of Git
 
 ## Useful Tools
 
+- [Chrome!](https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMI-83Zt6Gr5AIV85FbCh1f9gtfEAAYASAAEgJUqvD_BwE&gclsrc=aw.ds) Yes I personally prefer and recommend chrome for all web development, testing, and presentation. It's powerful, fast, and efficient enough for the task. 
+
+- [Node.js](Node is a Javascript extension, which runs with your code to enable you more advanced web control and hosting opportunities IF you take the time to master it. Unless you're on the NW network.... Then the Great Firewall kills your web apps on local host :(
+
+- [Angular.js](https://angularjs.org/) Another framework for establishing a dynamic webpage and functions much like Node, just with claims to be better and more efficient. Personally I have no experience with Angular, and very little with Node in a functional setting. But based on what I'm reading it could be extremely promising if you found Node lacking some of your taste.
