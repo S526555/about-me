@@ -22,3 +22,5 @@ A little cheat sheet/guide to Markdown commands (Markdown is the language of Git
 
 ## Contributors!
 - Brenden Thummel, B.S. in Computer Science (Image will be uploaded to the Repo because I'm still struggling a bit with getting images to link properly. And I think it's just my Google Chrome acting up... Idk) Also, you can find a full introduction in my Index.txt file!
+(HERES THE LINK TO MY WONDERFUL IMAGE)
+[CS Memes](https://www.facebook.com/compscimeme/posts/not-looking-at-any-ide-in-particularidle/515045882201873/)
